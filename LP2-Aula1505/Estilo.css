@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DK+Loopet:wght@100..400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DK+Loopet:wght@100..400&family=Poiret+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1{color: rgb(153, 0, 255);
+    font-size: 40px;
+    font-family:  "Playwrite DK Loopet", cursive;;
+}
+
+p{
+    background-color: rgb(93, 184, 48);
+}
+
+div{
+    border: 2px solid chartreuse;
+    padding-top: 20px;
+    margin: 50px 20px 20px 20px;
+
+}
